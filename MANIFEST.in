@@ -1,0 +1,1 @@
+recursive-include  web_essay_test_pro *.css *.js *.jpg *.gif *.png *.html *.md
